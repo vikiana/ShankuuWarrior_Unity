@@ -1,0 +1,171 @@
+﻿{"frames": {
+
+"fixed_powerup_SILVER0000":
+{
+	"frame": {"x":0,"y":0,"w":37,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0001":
+{
+	"frame": {"x":37,"y":0,"w":37,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0002":
+{
+	"frame": {"x":74,"y":0,"w":24,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":4,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0003":
+{
+	"frame": {"x":98,"y":0,"w":11,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":4,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0004":
+{
+	"frame": {"x":109,"y":0,"w":3,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":4,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0005":
+{
+	"frame": {"x":98,"y":0,"w":11,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":4,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0006":
+{
+	"frame": {"x":74,"y":0,"w":24,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":4,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0007":
+{
+	"frame": {"x":37,"y":0,"w":37,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0008":
+{
+	"frame": {"x":74,"y":0,"w":24,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":4,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0009":
+{
+	"frame": {"x":0,"y":37,"w":33,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":4,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0010":
+{
+	"frame": {"x":33,"y":37,"w":44,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0011":
+{
+	"frame": {"x":77,"y":37,"w":11,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":4,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0012":
+{
+	"frame": {"x":88,"y":37,"w":24,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":4,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0013":
+{
+	"frame": {"x":0,"y":81,"w":37,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0014":
+{
+	"frame": {"x":37,"y":81,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":21,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0015":
+{
+	"frame": {"x":37,"y":81,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":21,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0016":
+{
+	"frame": {"x":37,"y":81,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":21,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0017":
+{
+	"frame": {"x":37,"y":81,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":21,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0018":
+{
+	"frame": {"x":37,"y":81,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":21,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"fixed_powerup_SILVER0019":
+{
+	"frame": {"x":37,"y":81,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":21,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.5.0.100",
+	"image": "coin_silver.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}
